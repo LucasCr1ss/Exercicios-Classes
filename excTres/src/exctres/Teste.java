@@ -20,7 +20,8 @@ public class Teste {
 
         t1.mostrarStatus();
         t1.concluir();
-        t1.mostrarStatus();
+    
     }
     
 }
+
